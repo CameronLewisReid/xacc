@@ -1,0 +1,6 @@
+{
+  "bundle.symbolic_name" : "xacc_algorithm_qv",
+  "bundle.activator" : true,
+  "bundle.name" : "XACC Quantum Volume",
+  "bundle.description" : ""
+}
